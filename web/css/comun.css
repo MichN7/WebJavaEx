@@ -1,0 +1,81 @@
+
+html, body { 
+  background-color: #FDF0D9; 
+  color: black; 
+  font-family: sans-serif;
+  margin: 0px; 
+  padding: 0px; 
+}
+
+h1 { 
+  background-color: #EDA87D; 
+  color: white; 
+  text-transform: uppercase; 
+  margin: 0px; 
+  padding: 5px;
+}
+
+#encabezado {
+  height:10%;
+  margin:0px;
+}
+
+#menu { 
+  background-color: #F2BA5F; 
+  color: white; 
+  height:5%;
+  margin: 0px; 
+}
+
+#contenido { 
+  padding: 20px; 
+  height:80%;
+}
+
+div#menu ul { 
+  list-style-type: none; 
+  margin: 0px; 
+  padding: 5px; 
+}
+
+div#menu li { 
+  display: inline; 
+  padding: 0px 15px;
+}
+
+div#menu a { 
+  background-color: #F2BA5F; 
+  color: white; 
+  font-weight: bold; 
+}
+#contenedor{
+    width: 90%  ;
+    margin: 0 auto;
+}
+img { 
+  border: none; 
+}
+
+tr.neg { 
+  background-color: #F9DDAE; 
+  color: black; 
+}
+
+
+#pie {
+  border-top: black solid 1px;
+  height: 20%;
+
+  bottom: 0;
+  clear: both;
+}
+
+input {
+  font-family: monospace;
+}
+
+.aviso {
+  color: red;
+}
+
+/* Esta parte de la hoja de estilo es específica de este proyecto */
